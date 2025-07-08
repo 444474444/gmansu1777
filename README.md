@@ -33,5 +33,7 @@ style=for-the-badge&logo=gmail&logoColor=white
 |:-------:|:---------:|
 |바다|바다처럼 깊게 파고들겠습니다|
 |:-------:|:---------:|
+|땅|모든 땅,즉 백엔드 지식위에 서있고싶습니다|
+|:-------:|:---------:|
 
 | ![산](https://github.com/gmansu177/gmansu177/blob/main/images/mountain/jpg?raw=true)
