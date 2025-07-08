@@ -15,6 +15,9 @@
 [feature](https://via.placeholder.com/300x200) |
 ---
 
+#열심히 하겠습니다
 
 https://img.shields.io/badge/Gmail-d14836?
 style=for-the-badge&logo=gmail&logoColor=white
+
+![status](https://img.shieds.io/badge/pro
