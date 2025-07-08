@@ -22,4 +22,4 @@ style=for-the-badge&logo=gmail&logoColor=white
 
 <p align="center>
  <img
- src="https://images.unplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80" width="600" alt="Beautiful Nature"/></p>p> ---
+ src="https://images.unplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80" width="600" alt="Beautiful Nature"/></p>---
