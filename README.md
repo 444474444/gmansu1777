@@ -35,3 +35,13 @@ style=for-the-badge&logo=gmail&logoColor=white
 |땅|모든 땅,즉 백엔드 지식위에 서있고싶습니다|
 
 | ![산](https://github.com/gmansu177/gmansu177/blob/main/images/mountain/jpg?raw=true)
+
+
+##stack
+
+yet none
+
+
+
+
+
