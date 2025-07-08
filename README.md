@@ -20,4 +20,5 @@
 https://img.shields.io/badge/Gmail-d14836?
 style=for-the-badge&logo=gmail&logoColor=white
 
-![status](https://img.shieds.io/badge/pro
+![status](https://img.shieds.io/badge/project-Active-green)
+![License](https://img.shields.io/badge/License-Mit-blue)
