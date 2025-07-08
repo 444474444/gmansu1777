@@ -20,5 +20,6 @@
 https://img.shields.io/badge/Gmail-d14836?
 style=for-the-badge&logo=gmail&logoColor=white
 
-![status](https://img.shieds.io/badge/project-Active-green)
-![License](https://img.shields.io/badge/License-Mit-blue)
+<p align="center>
+ <img
+ src="https://images.unplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80" width="600" alt="Beautiful Nature"/></p>p> ---
